@@ -12,7 +12,14 @@
     }
 }*/
 
-
+//Go to VCS > Enable Version Control Integration in the menu
+//Select Git from the dropdown and click OK
+//Go to Git > GitHub > Share Project on GitHub
+//Enter your repository name
+//Click Share
+//In the commit dialog, check all files you want to commit
+//Add a commit message like "Add switch statement example"
+//Click Commit and Push
 
 
 
