@@ -1,4 +1,4 @@
-
+import java.util.Scanner;
 // MY SECOND CODE
 
 public class variable {
@@ -74,8 +74,6 @@ public class variable {
 */
 
         boolean isAdmin = false;
-
-
         if(isAdmin){
             System.out.println("This is true brooooooooooo");
         }
