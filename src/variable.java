@@ -12,8 +12,24 @@ public class variable {
 
     /*
 
+
     primitive = simple values stored directly in memory (stack)
     reference = memory address (stack) that points to the (heap)
+
+
+    more detailed of primitive type....
+    Think of it like writing a number directly on a sticky note
+    The value itself (like 42) is stored directly in memory (stack)
+    Quick to access because it's right there
+    Examples: int x = 5;, boolean isActive = true;
+
+
+    more detailed of reference type .....
+    Think of it like having a sticky note with an address that points to a box
+    The stack (sticky note) holds the address/location
+    he actual object/value is stored in the heap (the box)
+    Examples: String name = "John";, int[] numbers = {1,2,3};
+
 
     primitive vs reference
     ---------    ---------
