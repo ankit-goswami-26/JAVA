@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1d3cbeca-56f1-4f4c-8c45-97f4bb070078" name="Changes" comment="Java Basics">
-      <change afterPath="$PROJECT_DIR$/src/MathExe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrintfPractice.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RandomNumberGen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RandomNumberGen.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,10 +60,12 @@
     "Application.ARITHMATICop.executor": "Run",
     "Application.MLGAME (2).executor": "Run",
     "Application.MLGAME.executor": "Run",
-    "Application.MathExe.executor": "Run",
+    "Application.MathExe.executor": "Debug",
+    "Application.PrintfPractice.executor": "Run",
     "Application.Random.executor": "Run",
     "Application.RandomNumberGen.executor": "Run",
     "Application.SwitchS.executor": "Debug",
+    "Application.Trying.executor": "Run",
     "Application.ifstatement.executor": "Run",
     "Application.practice.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -234,7 +235,15 @@
       <option name="project" value="LOCAL" />
       <updated>1755765698879</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Java Basics">
+      <option name="closed" value="true" />
+      <created>1755774685682</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1755774685682</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
