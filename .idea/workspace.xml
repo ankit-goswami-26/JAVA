@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1d3cbeca-56f1-4f4c-8c45-97f4bb070078" name="Changes" comment="Java Basics1">
+    <list default="true" id="1d3cbeca-56f1-4f4c-8c45-97f4bb070078" name="Changes" comment="comments">
+      <change afterPath="$PROJECT_DIR$/src/RandomNumberGen.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ifstatement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ifstatement.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +60,8 @@
     "Application.ARITHMATICop.executor": "Run",
     "Application.MLGAME (2).executor": "Run",
     "Application.MLGAME.executor": "Run",
+    "Application.Random.executor": "Run",
+    "Application.RandomNumberGen.executor": "Run",
     "Application.SwitchS.executor": "Debug",
     "Application.ifstatement.executor": "Debug",
     "Application.practice.executor": "Debug",
@@ -206,7 +208,23 @@
       <option name="project" value="LOCAL" />
       <updated>1755688798443</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="ifstatement completed">
+      <option name="closed" value="true" />
+      <created>1755762931421</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1755762931421</updated>
+    </task>
+    <task id="LOCAL-00011" summary="comments">
+      <option name="closed" value="true" />
+      <created>1755763513566</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1755763513566</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -235,7 +253,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Java Basics" />
     <MESSAGE value="Java Basics1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Java Basics1" />
+    <MESSAGE value="ifstatement completed" />
+    <MESSAGE value="comments" />
+    <option name="LAST_COMMIT_MESSAGE" value="comments" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/BASICS$ARITHMATICop.ic" NAME="ARITHMATICop Coverage Results" MODIFIED="1754590036328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true" />
