@@ -10,6 +10,9 @@ public class PrintfPractice {
         System.out.printf("Her firstLetter is %c\n", firstLetter); // for char, we use small %c
         System.out.printf("Her current age is %d\n", age); // for int %d
         System.out.printf("And she has a weight around %.1f #motiiiiiiiiiiiiiiiiiiiiiii\n", weight); // for double %f
-        System.out.printf("Also she is a student %b", Student); // for boolean %b
+        System.out.printf("Also she is a student %b\n", Student); // for boolean %b
+
+
+        System.out.printf("%s is %d yrs old", name, age);
     }
 }
