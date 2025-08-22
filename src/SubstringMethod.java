@@ -6,6 +6,15 @@ public class SubstringMethod {
         // .substring() = A method used to extract a portion of a string
         //                .substring(star, end)
 
+
+        /*
+        String email = "goswamiankit459@gmail.com";
+        String pass = email.substring(0, 15);
+        String domain = email.substring(15); // we can perform this in both ways by (15, 25)
+
+         */
+
+
         Scanner scanner = new Scanner(System.in);
 
         String email;
@@ -16,24 +25,16 @@ public class SubstringMethod {
         email = scanner.nextLine();
 
 
-        /*
-        String email = "goswamiankit459@gmail.com";
-        String pass = email.substring(0, 15);
-        String domain = email.substring(15); // we can perform this in both ways by (15, 25)
-
-         */
-
-
         if(email.contains("@")) {
             username = email.substring(0, email.indexOf("@"));
             domain = email.substring(email.indexOf("@") + 1); // it's another way to perform using index method
 
             System.out.println(username);
             System.out.println(domain);
-            scanner.close();
         }
         else{
             System.out.println("@ symbol is missing");
         }
+        scanner.close();
     }
 }
