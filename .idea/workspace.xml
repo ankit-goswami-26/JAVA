@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1d3cbeca-56f1-4f4c-8c45-97f4bb070078" name="Changes" comment="Java Basics">
-      <change beforePath="$PROJECT_DIR$/src/SubstringMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SubstringMethod.java" afterDir="false" />
+    <list default="true" id="1d3cbeca-56f1-4f4c-8c45-97f4bb070078" name="Changes" comment="Code Review">
+      <change afterPath="$PROJECT_DIR$/src/WeightConversion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,6 +70,7 @@
     "Application.SubstringMethod.executor": "Run",
     "Application.SwitchS.executor": "Debug",
     "Application.Trying.executor": "Run",
+    "Application.WeightConversion.executor": "Run",
     "Application.ifstatement.executor": "Run",
     "Application.practice.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -302,7 +304,15 @@
       <option name="project" value="LOCAL" />
       <updated>1755830913584</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Code Review">
+      <option name="closed" value="true" />
+      <created>1755831403624</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1755831403624</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -334,7 +344,8 @@
     <MESSAGE value="comments" />
     <MESSAGE value="Remaining part" />
     <MESSAGE value="Java Basics" />
-    <option name="LAST_COMMIT_MESSAGE" value="Java Basics" />
+    <MESSAGE value="Code Review" />
+    <option name="LAST_COMMIT_MESSAGE" value="Code Review" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/BASICS$ARITHMATICop.ic" NAME="ARITHMATICop Coverage Results" MODIFIED="1754590036328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true" />
