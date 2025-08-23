@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1d3cbeca-56f1-4f4c-8c45-97f4bb070078" name="Changes" comment="Code Review">
-      <change afterPath="$PROJECT_DIR$/src/WeightConversion.java" afterDir="false" />
+    <list default="true" id="1d3cbeca-56f1-4f4c-8c45-97f4bb070078" name="Changes" comment="Java Basics">
+      <change afterPath="$PROJECT_DIR$/src/TemperatureConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TernaryOperator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,6 +70,8 @@
     "Application.StringMethod.executor": "Run",
     "Application.SubstringMethod.executor": "Run",
     "Application.SwitchS.executor": "Debug",
+    "Application.TemperatureConverter.executor": "Run",
+    "Application.TernaryOperator.executor": "Run",
     "Application.Trying.executor": "Run",
     "Application.WeightConversion.executor": "Run",
     "Application.ifstatement.executor": "Run",
@@ -87,33 +90,6 @@
   }
 }]]></component>
   <component name="RunManager">
-    <configuration name="ARITHMATICop" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ARITHMATICop" />
-      <module name="BASICS" />
-      <option name="VM_PARAMETERS" value="--enable-native-access=ALL-UNNAMED" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MLGAME (2)" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MLGAME" />
-      <module name="BASICS" />
-      <option name="VM_PARAMETERS" value="--enable-native-access=ALL-UNNAMED" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SwitchS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SwitchS" />
-      <module name="BASICS" />
-      <option name="PROGRAM_PARAMETERS" value="--enable-native-access=ALL-UNNAMED" />
-      <selectedOptions>
-        <option name="vmParameters" />
-      </selectedOptions>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <module name="BASICS" />
       <option name="PROGRAM_PARAMETERS" value="--enable-native-access=ALL-UNNAMED" />
@@ -124,16 +100,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <list>
-      <item itemvalue="Application.ARITHMATICop" />
-      <item itemvalue="Application.MLGAME (2)" />
-      <item itemvalue="Application.SwitchS" />
-    </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.SwitchS" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -312,7 +278,15 @@
       <option name="project" value="LOCAL" />
       <updated>1755831403624</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Java Basics">
+      <option name="closed" value="true" />
+      <created>1755834114574</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1755834114574</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -343,9 +317,9 @@
     <MESSAGE value="ifstatement completed" />
     <MESSAGE value="comments" />
     <MESSAGE value="Remaining part" />
-    <MESSAGE value="Java Basics" />
     <MESSAGE value="Code Review" />
-    <option name="LAST_COMMIT_MESSAGE" value="Code Review" />
+    <MESSAGE value="Java Basics" />
+    <option name="LAST_COMMIT_MESSAGE" value="Java Basics" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/BASICS$ARITHMATICop.ic" NAME="ARITHMATICop Coverage Results" MODIFIED="1754590036328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true" />
