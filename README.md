@@ -24,10 +24,10 @@ My goal is to build a strong foundation before moving into advanced topics like 
 ---
 
 ### 🍁 Conditionals (Decision Making)
-8. [IfStatement.java](src/08_IfStatement.java)
-9. [NestedIf.java](src/09_NestedIf.java)
+8. [conditionals.IfStatement.java](src/08_IfStatement.java)
+9. [conditionals.NestedIf.java](src/09_NestedIf.java)
 10. [SwitchStatement.java](src/10_SwitchStatement.java)
-11. [EnhancedSwitches.java](src/11_EnhancedSwitches.java)
+11. [conditionals.EnhancedSwitches.java](src/11_EnhancedSwitches.java)
 
 ---
 

@@ -1,4 +1,4 @@
-// iF STATEMENT =  PERFORMS A BLOCK OF CODE IF ITS CONDITION IS TRUE
+package conditionals;// iF STATEMENT =  PERFORMS A BLOCK OF CODE IF ITS CONDITION IS TRUE
 import java.util.Scanner;
 
 public class IfStatement {
