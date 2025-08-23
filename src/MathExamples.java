@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class MathExe {
+public class MathExamples {
     public static void main(String[] args){
 
 //        HYPOTENUSE
