@@ -1,4 +1,4 @@
-public class ARITHMATICop {
+public class ArithmeticOperations {
     public static void main(String[] args) {
 
 //        ASSIGNMENT OPERATOR
@@ -36,11 +36,11 @@ public class ARITHMATICop {
 
 
 //        ORDER OF OPERATIONS [P-E-M-D-A-S]
-//        PARAENTHESIS
-//        EXPONENSE
+//        PARENTHESIS
+//        EXPONENTS
 //        MULTIPLICATION
 //        DIVISION
-//        ADDITON
+//        ADDITION
 //        SUBSTRACTION
 
         double result = 3 + 4 * (7 + 5) / 2.0;
