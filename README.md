@@ -8,7 +8,7 @@ My goal is to build a strong foundation before moving into advanced topics like 
 
 ## 📂 Table of Contents
 
-### 01. Basics
+### 🍁 Basics
 1. [Variable.java](src/01_Variable.java)
 2. [UserInput.java](src/02_UserInput.java)
 3. [PrintfPractice.java](src/03_PrintfPractice.java)
@@ -16,14 +16,14 @@ My goal is to build a strong foundation before moving into advanced topics like 
 
 ---
 
-### 02. Operators
+### 🍁 Operators
 5. [ArithmeticOperations.java](src/05_ArithmeticOperations.java)
 6. [CompoundAssignment.java](src/06_CompoundAssignment.java)
 7. [TernaryOperator.java](src/07_TernaryOperator.java)
 
 ---
 
-### 03. Conditionals (Decision Making)
+### 🍁 Conditionals (Decision Making)
 8. [IfStatement.java](src/08_IfStatement.java)
 9. [NestedIf.java](src/09_NestedIf.java)
 10. [SwitchStatement.java](src/10_SwitchStatement.java)
@@ -31,21 +31,21 @@ My goal is to build a strong foundation before moving into advanced topics like 
 
 ---
 
-### 04. Conversions / Practice Programs
+### 🍁 Conversions / Practice Programs
 12. [TemperatureConverter.java](src/12_TemperatureConverter.java)
 13. [WeightConversion.java](src/13_WeightConversion.java)
 14. [Practice.java](src/14_Practice.java)
 
 ---
 
-### 05. Math & Strings
+### 🍁 Math & Strings
 15. [MathExamples.java](src/15_MathExamples.java)
 16. [StringMethods.java](src/16_StringMethods.java)
 17. [SubstringMethod.java](src/17_SubstringMethod.java)
 
 ---
 
-### 06. Loops / Mini Projects
+### 🍁 Loops / Mini Projects
 18. [MLGame.java](src/18_MLGame.java)
 
 ---
