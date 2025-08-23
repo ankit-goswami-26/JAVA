@@ -19,7 +19,7 @@ public class WeightConversion {
         System.out.println("2: Convert kgs to lbs");
 
 
-        // Prompt for UserInput
+        // Prompt for basics.UserInput
         System.out.print("Choose an option: ");
         choice = scanner.nextInt();
 

@@ -1,4 +1,4 @@
-// MY SECOND CODE
+package basics;// MY SECOND CODE
 
 public class Variables {
     public static void main(String[] args){

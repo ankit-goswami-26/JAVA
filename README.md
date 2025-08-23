@@ -9,16 +9,16 @@ My goal is to build a strong foundation before moving into advanced topics like 
 ## 🧋Overiew
 
 ### 🍁 Basics
-1. [Variable.java](src/01_Variable.java)
-2. [UserInput.java](src/02_UserInput.java)
-3. [PrintfPractice.java](src/03_PrintfPractice.java)
-4. [RandomNumberGen.java](src/04_RandomNumberGen.java)
+1. [Variable.java]
+2. [basics.UserInput.java]
+3. [PrintfPractice.java]
+4. [RandomNumberGen.java]
 
 ---
 
 ### 🍁 Operators
-5. [ArithmeticOperations.java](src/05_ArithmeticOperations.java)
-6. [CompoundAssignment.java](src/06_CompoundAssignment.java)
+5. [basics.ArithmeticOperations.java](src/05_ArithmeticOperations.java)
+6. [basics.CompoundAssignment.java](src/06_CompoundAssignment.java)
 7. [TernaryOperator.java](src/07_TernaryOperator.java)
 
 ---
@@ -39,7 +39,7 @@ My goal is to build a strong foundation before moving into advanced topics like 
 ---
 
 ### 🍁 Math & Strings
-15. [MathExamples.java](src/15_MathExamples.java)
+15. [basics.MathExamples.java](src/15_MathExamples.java)
 16. [StringMethods.java](src/16_StringMethods.java)
 17. [SubstringMethod.java](src/17_SubstringMethod.java)
 

@@ -11,7 +11,7 @@ public class TemperatureConverter {
         double newTemp;
         String unit;
 
-        // Prompt for UserInput
+        // Prompt for basics.UserInput
         System.out.print("Enter the temperature: ");
         temp = scanner.nextDouble();
 
