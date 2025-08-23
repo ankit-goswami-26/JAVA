@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class CompoundIn {
+public class CompoundAssignment {
     public static void main(String[] args){
 
         //compound interest calculator
