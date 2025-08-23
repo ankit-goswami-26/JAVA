@@ -1,4 +1,4 @@
-/* import java.util.Scanner;
+package practice;/* import java.util.Scanner;
 
 public class practice{
     public static void main(String [] args){

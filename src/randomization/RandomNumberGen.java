@@ -1,3 +1,5 @@
+package randomization;
+
 import java.util.Random;
 
 public class RandomNumberGen {

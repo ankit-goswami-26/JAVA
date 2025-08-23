@@ -11,15 +11,15 @@ My goal is to build a strong foundation before moving into advanced topics like 
 ### 🍁 Basics
 1. [Variable.java]
 2. [basics.UserInput.java]
-3. [PrintfPractice.java]
-4. [RandomNumberGen.java]
+3. [formatting.PrintfPractice.java]
+4. [randomization.RandomNumberGen.java]
 
 ---
 
 ### 🍁 Operators
 5. [basics.ArithmeticOperations.java](src/05_ArithmeticOperations.java)
 6. [basics.CompoundAssignment.java](src/06_CompoundAssignment.java)
-7. [TernaryOperator.java](src/07_TernaryOperator.java)
+7. [operators.TernaryOperator.java](src/07_TernaryOperator.java)
 
 ---
 
@@ -32,16 +32,16 @@ My goal is to build a strong foundation before moving into advanced topics like 
 ---
 
 ### 🍁 Conversions / Practice Programs
-12. [TemperatureConverter.java](src/12_TemperatureConverter.java)
-13. [WeightConversion.java](src/13_WeightConversion.java)
+12. [conversions.TemperatureConverter.java](src/12_TemperatureConverter.java)
+13. [conversions.WeightConversion.java](src/13_WeightConversion.java)
 14. [Practice.java](src/14_Practice.java)
 
 ---
 
 ### 🍁 Math & Strings
 15. [basics.MathExamples.java](src/15_MathExamples.java)
-16. [StringMethods.java](src/16_StringMethods.java)
-17. [SubstringMethod.java](src/17_SubstringMethod.java)
+16. [strings.StringMethods.java](src/16_StringMethods.java)
+17. [strings.SubstringMethod.java](src/17_SubstringMethod.java)
 
 ---
 

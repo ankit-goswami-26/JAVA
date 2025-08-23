@@ -1,3 +1,5 @@
+package formatting;
+
 public class PrintfPractice {
     public static void main(String[] args){
 
