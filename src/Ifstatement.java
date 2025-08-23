@@ -1,8 +1,7 @@
 // iF STATEMENT =  PERFORMS A BLOCK OF CODE IF ITS CONDITION IS TRUE
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
-public class ifstatement {
+public class Ifstatement {
     public static void main(String[] args){
         //if statement = performs a block of code if its condition is true
         Scanner scanner = new Scanner(System.in);
