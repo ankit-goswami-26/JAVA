@@ -1,7 +1,7 @@
 // iF STATEMENT =  PERFORMS A BLOCK OF CODE IF ITS CONDITION IS TRUE
 import java.util.Scanner;
 
-public class Ifstatement {
+public class IfStatement {
     public static void main(String[] args){
         //if statement = performs a block of code if its condition is true
         Scanner scanner = new Scanner(System.in);
