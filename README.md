@@ -1,4 +1,4 @@
-# Core Java – Practice Codes (Step by Step)
+# 🌿 Core Java – Practice Paths
 
 This repository contains my **Core Java learning journey**, organized in a logical order from basics to projects.
 Each file represents a concept or practice program.
@@ -6,7 +6,7 @@ My goal is to build a strong foundation before moving into advanced topics like 
 
 ---
 
-## 📂 Table of Contents
+## 🧋Overiew
 
 ### 🍁 Basics
 1. [Variable.java](src/01_Variable.java)
