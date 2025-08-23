@@ -55,7 +55,7 @@ public class practice{
 
 
 
-public class practice{
+public class PracticeExamples {
     public static void main(String[] args ){
 
         int age = 20;
