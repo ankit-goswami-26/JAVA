@@ -1,4 +1,6 @@
 ### IntelliJ IDEA ###
+.idea/
+*iml
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
@@ -28,20 +30,18 @@ bin/
 ### Mac OS ###
 .DS_Store
 
+<<<<<<< HEAD
 # IntelliJ IDEA
 *.iml
-out/
 .idea/
+out/
 
 # Java compiled files
 *.class
-*.jar
-*.war
-*.ear
 
 # Logs
 *.log
 
-# OS files
-.DS_Store
-Thumbs.db
+# Build directories
+target/
+bin/
