@@ -39,9 +39,9 @@ My goal is to build a strong foundation before moving into advanced topics like 
 ---
 
 ### 05. Math & Strings
-15. [15_MathExamples.java](src/15_MathExamples.java)
-16. [16_StringMethods.java](src/16_StringMethods.java)
-17. [17_SubstringMethod.java](src/17_SubstringMethod.java)
+15. [MathExamples.java](src/15_MathExamples.java)
+16. [StringMethods.java](src/16_StringMethods.java)
+17. [SubstringMethod.java](src/17_SubstringMethod.java)
 
 ---
 
