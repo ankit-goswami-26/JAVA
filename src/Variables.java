@@ -1,7 +1,6 @@
-import java.util.Scanner;
 // MY SECOND CODE
 
-public class variable {
+public class Variables {
     public static void main(String[] args){
         /*
 
