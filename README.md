@@ -4,7 +4,10 @@
 <br>❄️ My goal is to build a strong foundation before moving into advanced topics like OOP, collections, and System Design.
 <br>❄️  A special thanks to Bro Code(YouTube) and Telusko(Youtube) for providing structured and beginner-friendly Java tutorials.
 <br>❄️ Below are the resources i relied on and founded most valuable throughout my Core Java journey. 
-<br>❄️ Java PlayLists links: [https://youtu.be/23HFxAPyJ9U?si=ZjLGRN0w86Xu45k5]
+<br>❄️ Java PlayLists links: 
+<br>▪️ [https://youtu.be/23HFxAPyJ9U?si=ZjLGRN0w86Xu45k5] # BroCode Java beginner Playlist
+<br>▪️ [www.youtube.com/@Telusko] # Telusko Channel
+
 
 ---
 
