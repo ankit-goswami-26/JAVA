@@ -1,14 +1,14 @@
 # 🌿 Core Java – Practice Paths
 
-This repository contains my **Core Java learning journey**, organized in a logical order from basics to projects.
-Each file represents a concept or practice program.
+This repository contains my **Core Java learning journey**, organized in a logical order from concepts.basics to projects.
+Each file represents a basics or practice program.
 My goal is to build a strong foundation before moving into advanced topics like OOP, collections, and System Design.
 
 ---
 
 ## 🧋Overiew
 
-### 🍁 Basics
+### 🍁 basics
 1. [Variable.java]
 2. [basics.UserInput.java]
 3. [formatting.PrintfPractice.java]

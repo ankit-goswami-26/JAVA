@@ -1,4 +1,4 @@
-package conditionals;
+package concepts.conditionals;
 public class SwitchStatement {
     public static void main(String[] args) {
         /*String day = "Thursday";

@@ -1,4 +1,4 @@
-package basics;// MY SECOND CODE
+package concepts.basics;// MY SECOND CODE
 
 public class Variables {
     public static void main(String[] args){

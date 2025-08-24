@@ -1,4 +1,4 @@
-package basics;
+package concepts.basics;
 
 import java.util.Scanner;
 public class MathExamples {

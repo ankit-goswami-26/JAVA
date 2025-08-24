@@ -1,4 +1,4 @@
-package conditionals;
+package concepts.conditionals;
 
 public class NestedIf {
     public static void main(String[] args){
