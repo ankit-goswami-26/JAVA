@@ -1,7 +1,7 @@
 # 🌿 Core Java – Practice Paths
 
 This repository contains my **Core Java learning journey**, organized in a logical order from concepts.basics to projects.
-Each file represents a basics or practice program.
+Each file represents a basics or concepts.practice program.
 My goal is to build a strong foundation before moving into advanced topics like OOP, collections, and System Design.
 
 ---
@@ -30,7 +30,7 @@ My goal is to build a strong foundation before moving into advanced topics like 
 
 ---
 
-### 🍁 formatting 
+### 🍁 concepts.formatting 
 
 11. [PrintfPractice.java]
 
@@ -41,7 +41,7 @@ My goal is to build a strong foundation before moving into advanced topics like 
 
 ---
 
-### 🍁 randomization
+### 🍁 concepts.randomization
 13. [RandomNumberGen.java]
 
 ---

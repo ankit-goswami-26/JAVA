@@ -1,4 +1,4 @@
-package strings;
+package concepts.strings;
 
 public class StringMethods {
     public static void main(String[] args){

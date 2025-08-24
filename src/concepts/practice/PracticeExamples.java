@@ -1,6 +1,6 @@
-package practice;/* import java.util.Scanner;
+package concepts.practice;/* import java.util.Scanner;
 
-public class practice{
+public class concepts.practice{
     public static void main(String [] args){
         Scanner scanner = new Scanner(System.in);
 
@@ -31,7 +31,7 @@ public class practice{
 
 
 
-/* public class practice{
+/* public class concepts.practice{
     public static void main(String[] args){
 
         String day = "Tuesday";

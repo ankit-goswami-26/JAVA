@@ -1,4 +1,4 @@
-package randomization;
+package concepts.randomization;
 
 import java.util.Random;
 
