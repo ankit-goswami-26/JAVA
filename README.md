@@ -10,43 +10,56 @@ My goal is to build a strong foundation before moving into advanced topics like 
 
 ### 🍁 basics
 1. [Variable.java]
-2. [basics.UserInput.java]
-3. [formatting.PrintfPractice.java]
-4. [randomization.RandomNumberGen.java]
-
----
-
-### 🍁 Operators
-5. [basics.ArithmeticOperations.java](src/05_ArithmeticOperations.java)
-6. [basics.CompoundAssignment.java](src/06_CompoundAssignment.java)
-7. [operators.TernaryOperator.java](src/07_TernaryOperator.java)
+2. [ArithmeticOperations.java]
+3. [CompoundAssignment.java]
+4. [UserInput.java]
 
 ---
 
 ### 🍁 Conditionals (Decision Making)
-8. [conditionals.IfStatement.java](src/08_IfStatement.java)
-9. [conditionals.NestedIf.java](src/09_NestedIf.java)
-10. [SwitchStatement.java](src/10_SwitchStatement.java)
-11. [conditionals.EnhancedSwitches.java](src/11_EnhancedSwitches.java)
+5. [EnhancedSwitches.java]
+6. [conditionals.IfStatement.java]
+7. [conditionals.NestedIf.java]
+8. [SwitchStatement.java]
 
 ---
 
-### 🍁 Conversions / Practice Programs
-12. [conversions.TemperatureConverter.java](src/12_TemperatureConverter.java)
-13. [conversions.WeightConversion.java](src/13_WeightConversion.java)
-14. [Practice.java](src/14_Practice.java)
+### 🍁 Conversions  
+9. [TemperatureConverter.java]
+10. [WeightConversion.java]
+
+---
+
+### 🍁 formatting 
+
+11. [PrintfPractice.java]
+
+---
+
+### 🍁 Operators
+12. [TernaryOperator.java]
+
+---
+
+### 🍁 randomization
+13. [RandomNumberGen.java]
+
+---
+
+### 🍁Practice Programs
+14. [PracticeExamples.java]
 
 ---
 
 ### 🍁 Math & Strings
-15. [basics.MathExamples.java](src/15_MathExamples.java)
-16. [strings.StringMethods.java](src/16_StringMethods.java)
-17. [strings.SubstringMethod.java](src/17_SubstringMethod.java)
+15. [MathExamples.java]
+16. [StringMethods.java]
+17. [SubstringMethod.java]
 
 ---
 
 ### 🍁 Loops / Mini Projects
-18. [MLGame.java](src/18_MLGame.java)
+18. [MLGame.java]
 
 ---
 
