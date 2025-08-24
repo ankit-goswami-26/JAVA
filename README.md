@@ -1,8 +1,10 @@
 # 🌿 Core Java – Practice Paths
 
-This repository contains my **Core Java learning journey**, organized in a logical order from concepts.basics to projects.
-Each file represents a basics or concepts.practice program.
-My goal is to build a strong foundation before moving into advanced topics like OOP, collections, and System Design.
+❄️ This repository contains my **Core Java learning journey**, organized in a logical order from basics to projects.
+<br>❄️ My goal is to build a strong foundation before moving into advanced topics like OOP, collections, and System Design.
+<br>❄️  A special thanks to Bro Code(YouTube) and Telusko(Youtube) for providing structured and beginner-friendly Java tutorials.
+<br>❄️ Below are the resources i relied on and founded most valuable throughout my Core Java journey. 
+<br>❄️ Java PlayLists links: [https://youtu.be/23HFxAPyJ9U?si=ZjLGRN0w86Xu45k5]
 
 ---
 
