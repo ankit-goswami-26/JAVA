@@ -13,49 +13,48 @@
 
 ## 🧋Overiew
 
-### 🍁 basics
-1. [Variable.java](src/concepts/basics/Variables.java)
-2. [ArithmeticOperations.java](src/concepts/basics/ArithmeticOperations.java)
-3. [MathExamples.java](src/concepts/basics/MathExamples.java)
-4. [UserInput.java](src/concepts/basics/UserInput.java)
+### 🍁 basics 
+1. [ArithmeticOperations.java](src/concepts/basics/ArithmeticOperations.java)
+2. [MathExamples.java](src/concepts/basics/MathExamples.java)
+3. [UserInput.java](src/concepts/basics/UserInput.java)
+4. [Variable.java](src/concepts/basics/Variables.java)
 
 ---
 
 ### 🍁 Conditionals (Decision Making)
-5. [EnhancedSwitches.java]
-6. [conditionals.IfStatement.java]
-7. [conditionals.NestedIf.java]
-8. [SwitchStatement.java]
+5. [EnhancedSwitches.java](src/concepts/conditionals/EnhancedSwitches.java)
+6. [IfStatement.java](src/concepts/conditionals/IfStatement.java)
+7. [NestedIf.java](src/concepts/conditionals/NestedIf.java)
+8. [SwitchStatement.java](src/concepts/conditionals/SwitchStatement.java)
 
 ---
 
 ### 🍁 concepts.formatting 
 
-9. [PrintfPractice.java]
+9. [PrintfPractice.java](src/concepts/formatting/PrintfPractice.java)
 
 ---
 
 ### 🍁 Operators
-10. [TernaryOperator.java]
+10. [TernaryOperator.java](src/concepts/operators/TernaryOperator.java)
 
 ---
 
 ### 🍁 concepts.randomization
-11. [RandomNumberGen.java]
+11. [RandomNumberGen.java](src/concepts/randomization/RandomNumberGen.java)
 
 
 ### 🍁 Math & Strings
-12. [MathExamples.java]
-13. [StringMethods.java]
-14. [SubstringMethod.java]
+12. [StringMethods.java](src/concepts/strings/StringMethods.java)
+13. [SubstringMethod.java](src/concepts/strings/SubstringMethod.java)
 
 ---
 
 ### 🍁 Loops / Mini Projects
-15. [MLGame.java]
-16. [TemperatureConverter.java]
-17. [WeightConversion.java]
-18. [CICalculator.java]
+14. [MLGame.java](src/projects/MadLibsGame.java)
+15. [TemperatureConverter.java](src/projects/TempConverter.java)
+16. [WeightConversion.java](src/projects/WeightConvertor.java)
+17. [CICalculator.java](src/projects/CICalculator.java)
 
 ---
 
