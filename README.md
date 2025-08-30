@@ -15,7 +15,7 @@
 
 ### 🍁 basics
 1. [Variable.java]
-2. [ArithmeticOperations.java]
+2. [ArithmeticOperations.java](src/concepts/basics/ArithmeticOperations.java)
 3. [CompoundAssignment.java]
 4. [UserInput.java]
 
