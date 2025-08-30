@@ -14,10 +14,10 @@
 ## 🧋Overiew
 
 ### 🍁 basics
-1. [Variable.java]
+1. [Variable.java](src/concepts/basics/Variables.java)
 2. [ArithmeticOperations.java](src/concepts/basics/ArithmeticOperations.java)
-3. [CompoundAssignment.java]
-4. [UserInput.java]
+3. [MathExamples.java](src/concepts/basics/MathExamples.java)
+4. [UserInput.java](src/concepts/basics/UserInput.java)
 
 ---
 
