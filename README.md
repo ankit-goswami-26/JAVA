@@ -36,7 +36,7 @@
 ---
 
 ### 🍁 Operators
-10 [TernaryOperator.java]
+10. [TernaryOperator.java]
 
 ---
 
