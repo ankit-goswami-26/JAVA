@@ -2,7 +2,7 @@ package concepts.conversions;
 
 import java.util.Scanner;
 
-public class TemperatureConverter {
+public class TempConverter {
     public static void main(String[] args){
         // Temperature converter
 

@@ -2,7 +2,7 @@ package concepts.conversions;
 
 import java.util.Scanner;
 
-public class WeightConversion {
+public class WeightConvertor {
     public static void main(String[] args) {
 
         // WEIGHT CONVERSION PROGRAM
