@@ -29,42 +29,33 @@
 
 ---
 
-### 🍁 Conversions  
-9. [TemperatureConverter.java]
-10. [WeightConversion.java]
-
----
-
 ### 🍁 concepts.formatting 
 
-11. [PrintfPractice.java]
+9. [PrintfPractice.java]
 
 ---
 
 ### 🍁 Operators
-12. [TernaryOperator.java]
+10 [TernaryOperator.java]
 
 ---
 
 ### 🍁 concepts.randomization
-13. [RandomNumberGen.java]
+11. [RandomNumberGen.java]
 
----
-
-### 🍁Practice Programs
-14. [PracticeExamples.java]
-
----
 
 ### 🍁 Math & Strings
-15. [MathExamples.java]
-16. [StringMethods.java]
-17. [SubstringMethod.java]
+12. [MathExamples.java]
+13. [StringMethods.java]
+14. [SubstringMethod.java]
 
 ---
 
 ### 🍁 Loops / Mini Projects
-18. [MLGame.java]
+15. [MLGame.java]
+16. [TemperatureConverter.java]
+17. [WeightConversion.java]
+18. [CICalculator.java]
 
 ---
 
