@@ -2,7 +2,7 @@ package concepts.basics;
 
 import java.util.Scanner;
 
-public class CompoundAssignment {
+public class CICalculator {
     public static void main(String[] args){
 
         //compound interest calculator
