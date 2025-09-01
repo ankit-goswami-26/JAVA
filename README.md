@@ -56,6 +56,7 @@
 15. [TemperatureConverter.java](src/projects/TempConverter.java)
 16. [WeightConversion.java](src/projects/WeightConvertor.java)
 17. [CICalculator.java](src/projects/CICalculator.java)
+18. [Calculator.java](src/projects/Calculator.java)
 
 ---
 
