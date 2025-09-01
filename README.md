@@ -1,64 +1,143 @@
-# 🌿 Core Java – Practice Paths
+# 🌿 Java - Core & Advanced (ongoing)
 
-❄️ This repository contains my **Core Java learning journey**, organized in a logical order from basics to projects.
-<br>❄️ My goal is to build a strong foundation before moving into advanced topics like OOP, collections, and System Design.
+❄️ This repository contains my **Java learning journey**, organized in a logical order from basics to projects.
 <br>❄️  A special thanks to Bro Code and Telusko for providing structured and beginner-friendly Java tutorials.
-<br>❄️ Below are the resources i relied on and founded most valuable throughout my Core Java journey. 
+<br>❄️ Below are the resources i relied on and founded most valuable throughout my Java journey. 
 <br>❄️ Java PlayLists links: 
 <br>▪️ [https://youtu.be/23HFxAPyJ9U?si=ZjLGRN0w86Xu45k5] # BroCode Java beginner Playlist
 <br>▪️ [www.youtube.com/@Telusko] # Telusko Channel
-
-
----
+<br>
+<br>
+## ✨Status
+- Core Java: ✅ Completed
+- Advanced Java: 🏃Ongoing
+<br>
 
 ## 🧋Overiew
 
-### 🍁 basics 
-1. [ArithmeticOperations.java](src/concepts/basics/ArithmeticOperations.java)
-2. [MathExamples.java](src/concepts/basics/MathExamples.java)
-3. [UserInput.java](src/concepts/basics/UserInput.java)
-4. [Variable.java](src/concepts/basics/Variables.java)
+### ⚜️Core Java Concepts
 
----
+<details>
+<summary>Click to expand</summary>
+<br>
 
-### 🍁 Conditionals (Decision Making)
-5. [EnhancedSwitches.java](src/concepts/conditionals/EnhancedSwitches.java)
-6. [IfStatement.java](src/concepts/conditionals/IfStatement.java)
-7. [NestedIf.java](src/concepts/conditionals/NestedIf.java)
-8. [SwitchStatement.java](src/concepts/conditionals/SwitchStatement.java)
+<details>
+  <summary><b>🍁Basics</b></summary>
+<br>
+  
+- [ArithmeticOperations.java](src/concepts/basics/ArithmeticOperations.java)
+- [MathExamples.java](src/concepts/basics/MathExamples.java)
+- [UserInput.java](src/concepts/basics/UserInput.java)
+- [Variable.java](src/concepts/basics/Variables.java)
+  
+<br>
 
----
+</details>
 
-### 🍁 concepts.formatting 
 
-9. [PrintfPractice.java](src/concepts/formatting/PrintfPractice.java)
+<details>
+  <summary><b>🍁Conditionals (Decision Making)</b></summary>
+<br>
+  
+- [EnhancedSwitches.java](src/concepts/conditionals/EnhancedSwitches.java)
+- [IfStatement.java](src/concepts/conditionals/IfStatement.java)
+- [NestedIf.java](src/concepts/conditionals/NestedIf.java)
+- [SwitchStatement.java](src/concepts/conditionals/SwitchStatement.java)
 
----
+<br>
 
-### 🍁 Operators
-10. [TernaryOperator.java](src/concepts/operators/TernaryOperator.java)
+</details>
 
----
 
-### 🍁 concepts.randomization
-11. [RandomNumberGen.java](src/concepts/randomization/RandomNumberGen.java)
+<details>
+  <summary><b>🍁Formatting</b></summary> 
+<br>
+  
+- [PrintfPractice.java](src/concepts/formatting/PrintfPractice.java)
 
----
+<br>
 
-### 🍁 Math & Strings
-12. [StringMethods.java](src/concepts/strings/StringMethods.java)
-13. [SubstringMethod.java](src/concepts/strings/SubstringMethod.java)
+</details>
 
----
 
-### 🍁 Loops / Mini Projects
-14. [MLGame.java](src/projects/MadLibsGame.java)
-15. [TemperatureConverter.java](src/projects/TempConverter.java)
-16. [WeightConversion.java](src/projects/WeightConvertor.java)
-17. [CICalculator.java](src/projects/CICalculator.java)
-18. [Calculator.java](src/projects/Calculator.java)
+<details>
+  <summary><b>🍁 Operators</b></summary> 
+  <br>
+  
+- [TernaryOperator.java](src/concepts/operators/TernaryOperator.java)
 
----
+<br>
+
+
+</details>
+
+<details>
+  <summary><b>🍁 Randomization</b></summary> 
+  <br>
+  
+- [RandomNumberGen.java](src/concepts/randomization/RandomNumberGen.java)
+
+<br>
+
+
+</details>
+
+
+<details>
+  <summary><b>🍁Math & Strings</b></summary> 
+  <br>
+
+- [StringMethods.java](src/concepts/strings/StringMethods.java)
+- [SubstringMethod.java](src/concepts/strings/SubstringMethod.java)
+
+</details>
+
+</details>
+
+<br>
+
+### ⚜️Data Structures & OOP
+
+<details>
+<summary>Click to expand</summary>
+
+- Arrays (coming soon)
+- Classes & Objects (coming soon)
+- Inheritance (coming soon)
+- Polymorphism (coming soon)
+- Collections (coming soon)
+
+</details>
+
+<br>
+
+### ⚜️Advanced Features
+
+<details>
+<summary>Click to expand</summary>
+
+- Multithreading basics (coming soon)
+- Synchronization (coming soon)
+- Concurrency utilities (coming soon)
+
+</details>
+
+<br>
+
+### ⚜️Projects / Mini Projects
+
+<details>
+<summary>Click to expand</summary>
+
+- [Calculator](src/projects/Calculator.java)
+- [CICalculator](src/projects/CICalculator.java)
+- [Weight Conversion](src/projects/WeightConvertor.java)
+- [Temperature Converter](src/projects/TempConverter.java)
+- [ML Game](src/projects/MadLibsGame.java)
+
+</details>
+
+<br>
 
 ## 🚀 How to Run
 - Clone the repository:
