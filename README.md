@@ -36,7 +36,7 @@
 
 
 <details>
-  <summary><b>🍁Conditionals (Decision Making)</b></summary>
+  <summary><b>🍁Conditionals</b></summary>
 <br>
   
 - [EnhancedSwitches.java](src/concepts/conditionals/EnhancedSwitches.java)
