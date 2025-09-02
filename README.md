@@ -137,6 +137,7 @@
 - [Weight Conversion](src/projects/WeightConvertor.java)
 - [Temperature Converter](src/projects/TempConverter.java)
 - [ML Game](src/projects/MadLibsGame.java)
+- [NumberGuessingGame.java](src/projects/Beginner/NumberGuessingGame.java)
 
 </details>
 
