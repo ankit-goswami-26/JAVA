@@ -15,7 +15,7 @@
 
 ## 🧋Overiew
 
-### ▪️Core Java Concepts
+### Core Java Concepts
 
 <details>
 <summary>Click to expand</summary>
@@ -96,7 +96,7 @@
 
 <br>
 
-### ▪️Data Structures & OOP
+### Data Structures & OOP
 
 <details>
 <summary>Click to expand</summary>
@@ -111,7 +111,7 @@
 
 <br>
 
-### ▪️Advanced Features
+### Advanced Features
 
 <details>
 <summary>Click to expand</summary>
@@ -124,7 +124,7 @@
 
 <br>
 
-### ▪️Projects / Mini Projects
+### Projects / Mini Projects
 
 <details>
 <summary>Click to expand</summary>
