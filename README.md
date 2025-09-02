@@ -13,14 +13,11 @@
 - Advanced Java: 🏃Ongoing
 <br>
 
-## 🧋Overiew
-
-### Core Java Concepts
+## 🧋Overiew [click to exapnd...]
 
 <details>
-<summary>Click to expand</summary>
+<summary>Core Java Concepts</summary>
 <br>
-
 <details>
   <summary><b>🍁Basics</b></summary>
 <br>
@@ -93,13 +90,12 @@
 </details>
 
 </details>
-
+</details>
 <br>
 
-### Data Structures & OOP
-
 <details>
-<summary>Click to expand</summary>
+<summary>Data Structures & OOP</summary>
+<br>
 
 - Arrays (coming soon)
 - Classes & Objects (coming soon)
@@ -111,10 +107,9 @@
 
 <br>
 
-### Advanced Features
-
 <details>
-<summary>Click to expand</summary>
+<summary>Advanced Features</summary>
+<br>
 
 - Multithreading basics (coming soon)
 - Synchronization (coming soon)
@@ -124,10 +119,9 @@
 
 <br>
 
-### Projects / Mini Projects
-
 <details>
-<summary>Click to expand</summary>
+<summary>Projects / Mini Projects</summary>
+<br>
 
 - [Calculator](src/projects/Calculator.java)
 - [CICalculator](src/projects/CICalculator.java)
