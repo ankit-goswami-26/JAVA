@@ -90,6 +90,14 @@
 
 </details>
 
+<details>
+  <summary><b>🍁Loops</b></summary> 
+  <br>
+
+- [WhileLoop.java](src/concepts/loops/WhileLoop.java)
+
+</details>
+
 </details>
 </details>
 <br>
