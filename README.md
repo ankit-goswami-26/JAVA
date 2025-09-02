@@ -62,6 +62,7 @@
   <br>
   
 - [TernaryOperator.java](src/concepts/operators/TernaryOperator.java)
+- [LogicalOperators.java](src/concepts/operators/LogicalOperators.java)
 
 <br>
 
