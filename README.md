@@ -160,6 +160,7 @@
   <br>
   
 - [NumberGuessingGame.java](src/projects/Beginner/NumberGuessingGame.java)
+- [BankingProgram.java](src/projects/Intermediate/BankingProgram.java)
   
 </details>
 
