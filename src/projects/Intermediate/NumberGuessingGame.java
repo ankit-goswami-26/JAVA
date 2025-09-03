@@ -1,4 +1,4 @@
-package projects.Beginner;
+package projects.Intermediate;
 
 import java.util.Random;
 import java.util.Scanner;
