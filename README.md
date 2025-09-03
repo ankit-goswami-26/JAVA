@@ -101,7 +101,14 @@
 
 </details>
 
+<details>
+  <summary><b>🍁Methods</b></summary>
+  <br>
+
+- [Methods.java](src/concepts/methods/Methods.java)
+  
 </details>
+
 </details>
 <br>
 
