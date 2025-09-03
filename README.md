@@ -143,12 +143,26 @@
 <summary>Projects / Mini Projects</summary>
 <br>
 
+<details>
+  <summary><b>🍁Beginner</b></summary> 
+  <br>
+  
 - [Calculator](src/projects/Calculator.java)
 - [CICalculator](src/projects/CICalculator.java)
 - [Weight Conversion](src/projects/WeightConvertor.java)
 - [Temperature Converter](src/projects/TempConverter.java)
 - [ML Game](src/projects/MadLibsGame.java)
+  
+</details>
+
+<details>
+  <summary><b>🍁Intermediate</b></summary> 
+  <br>
+  
 - [NumberGuessingGame.java](src/projects/Beginner/NumberGuessingGame.java)
+  
+</details>
+
 
 </details>
 
