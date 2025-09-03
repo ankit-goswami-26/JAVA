@@ -97,6 +97,7 @@
 - [WhileLoop.java](src/concepts/loops/WhileLoop.java)
 - [ForLoops.java](src/concepts/loops/ForLoops.java)
 - [BreakContinue.java](src/concepts/loops/BreakContinue.java)
+- [NestedLoops.java](src/concepts/loops/NestedLoops.java)
 
 </details>
 
