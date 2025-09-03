@@ -26,6 +26,7 @@
 - [MathExamples.java](src/concepts/basics/MathExamples.java)
 - [UserInput.java](src/concepts/basics/UserInput.java)
 - [Variable.java](src/concepts/basics/Variables.java)
+- [VariableScope.java](src/concepts/basics/VariableScope.java)
   
 <br>
 
