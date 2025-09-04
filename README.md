@@ -123,6 +123,7 @@
   
 - [ArraysBasics.java](src/datastructures/arrays/ArraysBasics.java)
 - [ArrayUserInput.java](src/datastructures/arrays/ArrayUserInput.java)
+- [ArraySearch.java](src/datastructures/arrays/ArraySearch.java)
 
 </details>
 
