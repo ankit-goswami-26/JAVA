@@ -9,8 +9,8 @@
 <br>
 <br>
 ## ✨Status
-- Core Java: ✅ Completed
-- Advanced Java: 🏃Ongoing
+- Core Java : 🏃Ongoing
+- Advanced Java :  🔜
 <br>
 
 ## 🧋Overiew [click to exapnd...]
