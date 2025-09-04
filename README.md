@@ -117,7 +117,15 @@
 <summary>Data Structures & OOP</summary>
 <br>
 
-- Arrays (coming soon)
+<details>
+  <summary><b>🍁Arrays</b></summary> 
+  <br>
+  
+- [ArraysBasics.java](src/datastructures/arrays/ArraysBasics.java)
+- [ArrayUserInput.java](src/datastructures/arrays/ArrayUserInput.java)
+
+</details>
+
 - Classes & Objects (coming soon)
 - Inheritance (coming soon)
 - Polymorphism (coming soon)
