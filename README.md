@@ -172,6 +172,7 @@
   
 - [NumberGuessingGame.java](src/projects/Beginner/NumberGuessingGame.java)
 - [BankingProgram.java](src/projects/Intermediate/BankingProgram.java)
+- [QuizGame.java](src/projects/Intermediate/QuizGame.java)
   
 </details>
 
