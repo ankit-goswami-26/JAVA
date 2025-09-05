@@ -1,4 +1,4 @@
-# 🌿 Java - Core & Advanced (ongoing)
+# 🌿 Java - Core & Advanced 
 
 ❄️ This repository contains my **Java learning journey**, organized in a logical order from basics to projects.
 <br>❄️  A special thanks to Bro Code and Telusko for providing structured and beginner-friendly Java tutorials.
@@ -123,6 +123,7 @@
   
 - [ArraysBasics.java](src/datastructures/arrays/ArraysBasics.java)
 - [ArrayUserInput.java](src/datastructures/arrays/ArrayUserInput.java)
+- [ArraySearch.java](src/datastructures/arrays/ArraySearch.java)
 
 </details>
 
