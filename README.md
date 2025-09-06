@@ -59,7 +59,7 @@
 
 
 <details>
-  <summary><b>🍁 Operators</b></summary> 
+  <summary><b>🍁Operators</b></summary> 
   <br>
   
 - [TernaryOperator.java](src/concepts/operators/TernaryOperator.java)
@@ -71,7 +71,7 @@
 </details>
 
 <details>
-  <summary><b>🍁 Randomization</b></summary> 
+  <summary><b>🍁Randomization</b></summary> 
   <br>
   
 - [RandomNumberGen.java](src/concepts/randomization/RandomNumberGen.java)
@@ -88,6 +88,7 @@
 
 - [StringMethods.java](src/concepts/strings/StringMethods.java)
 - [SubstringMethod.java](src/concepts/strings/SubstringMethod.java)
+- [StringBuilder.java](src/concepts/strings/StringBuilder.java)
 
 </details>
 
@@ -173,6 +174,7 @@
 - [NumberGuessingGame.java](src/projects/Beginner/NumberGuessingGame.java)
 - [BankingProgram.java](src/projects/Intermediate/BankingProgram.java)
 - [QuizGame.java](src/projects/Intermediate/QuizGame.java)
+- [RockPaperScissors.java](src/projects/Intermediate/RockPaperScissors.java)
   
 </details>
 
