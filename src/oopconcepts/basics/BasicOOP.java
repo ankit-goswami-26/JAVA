@@ -1,4 +1,4 @@
-package oopconcepts;
+package oopconcepts.basics;
 
 public class BasicOOP {
     public static void main(String[] args) {
