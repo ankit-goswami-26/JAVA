@@ -175,6 +175,7 @@
 - [BankingProgram.java](src/projects/Intermediate/BankingProgram.java)
 - [QuizGame.java](src/projects/Intermediate/QuizGame.java)
 - [RockPaperScissors.java](src/projects/Intermediate/RockPaperScissors.java)
+- [SlotMachine.java](src/projects/Intermediate/SlotMachine.java)
   
 </details>
 
