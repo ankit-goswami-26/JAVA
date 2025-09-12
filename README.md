@@ -130,11 +130,21 @@
 
 </details>
 
+
+<details>
+  <summary><b>🍁Basic OOP</b></summary> 
+  <br>
+
+- [BasicOOP.java](src/oopconcepts/BasicOOP.java)
+
 - Classes & Objects (coming soon)
 - Inheritance (coming soon)
 - Polymorphism (coming soon)
 - Collections (coming soon)
 
+</details>
+
+  
 </details>
 
 <br>
