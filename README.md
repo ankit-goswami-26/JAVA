@@ -27,6 +27,7 @@
 - [UserInput.java](src/concepts/basics/UserInput.java)
 - [Variable.java](src/concepts/basics/Variables.java)
 - [VariableScope.java](src/concepts/basics/VariableScope.java)
+- [InstanceStaticDemo.java](src/concepts/basics/InstanceStaticDemo.java)
   
 <br>
 
