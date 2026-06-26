@@ -10,5 +10,7 @@ public class Greetings {
         String name = input.nextLine();
 
         System.out.println("Thank you " + name + " for joining Amity University");
+
+        input.close();
     }
 }
