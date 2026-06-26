@@ -15,7 +15,7 @@ public class Operator {
         System.out.print("Enter Second number: ");
         int b = input.nextInt();
 
-        int result = 0;
+        int result;
 
         if (op == ('+')) {
             result = a + b;
