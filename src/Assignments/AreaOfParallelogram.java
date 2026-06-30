@@ -15,6 +15,7 @@ public class AreaOfParallelogram {
 
         if (base < 0 || height < 0) {
             System.out.println("Values cannot be negative!");
+            input.close();
             return;
         }
 
